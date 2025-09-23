@@ -1,0 +1,55 @@
+leftnav:
+- identifier: 25b295d7-aa9b-908d-da7c-839bfc27fb6b
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: b081e93a-ad70-36b9-ba45-f2818ea93148
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights/
+  weight: 20
+- identifier: b2276e1f-c663-0818-213d-3b83c6449b38
+  name: Course Inspiration and Design
+  pageRef: /pages/instructor-insights/course-inspiration-and-design
+  parent: b081e93a-ad70-36b9-ba45-f2818ea93148
+  weight: 30
+- identifier: 7d747e12-0f5b-8bc5-aceb-7df72a18708a
+  name: Teaching with Technology (and Without)
+  pageRef: /pages/instructor-insights/teaching-with-technology-and-without
+  parent: b081e93a-ad70-36b9-ba45-f2818ea93148
+  weight: 40
+- identifier: a759ba72-a24c-006c-4fff-f6421262d7d1
+  name: Learning Actively in Groups
+  pageRef: /pages/instructor-insights/learning-actively-in-groups
+  parent: b081e93a-ad70-36b9-ba45-f2818ea93148
+  weight: 50
+- identifier: 9a135d4a-9e9f-94dc-4294-b14eb4eff138
+  name: Using Surveys to Get to Know Students
+  pageRef: /pages/instructor-insights/using-surveys-to-get-to-know-students
+  parent: b081e93a-ad70-36b9-ba45-f2818ea93148
+  weight: 60
+- identifier: f6d57f01-33d4-3f79-7996-735fd247192d
+  name: Assessing Student Learning in Creative Contexts
+  pageRef: /pages/instructor-insights/assessing-student-learning-in-creative-contexts
+  parent: b081e93a-ad70-36b9-ba45-f2818ea93148
+  weight: 70
+- identifier: cda34d48-5d89-c581-e892-74ad3eb6e8e4
+  name: Engaging Deeply in the Design Process
+  pageRef: /pages/instructor-insights/engaging-deeply-in-the-design-process
+  parent: b081e93a-ad70-36b9-ba45-f2818ea93148
+  weight: 80
+- identifier: 277a7be3-dc0b-bcbe-1fc7-6b0be5be1cdc
+  name: Lecture Notes
+  pageRef: /pages/lecture-notes
+  weight: 90
+- identifier: cf15ea27-ab5d-b27b-a2b2-eefe4e862776
+  name: Readings and Assignments
+  pageRef: /pages/readings-and-assignments
+  weight: 100
+- identifier: a357f3bf-5501-e8df-cd29-6f5bd448d947
+  name: Quizzes
+  pageRef: /pages/quizzes
+  weight: 110
+- identifier: 5c208247-ee3e-3aa3-b434-aa59574c20c3
+  name: Tools
+  pageRef: /pages/tools
+  weight: 120

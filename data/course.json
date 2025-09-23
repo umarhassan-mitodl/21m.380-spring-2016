@@ -1,0 +1,65 @@
+{
+  "term": "Spring",
+  "year": "2016",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Electrical Engineering",
+      "Signal Processing"
+    ],
+    [
+      "Fine Arts",
+      "Game Design"
+    ],
+    [
+      "Fine Arts",
+      "Music"
+    ],
+    [
+      "Fine Arts",
+      "Visual Arts",
+      "Film and Video"
+    ],
+    [
+      "Fine Arts",
+      "Performance Arts",
+      "Theatrical Design"
+    ]
+  ],
+  "legacy_uid": "5b4ae287-e163-d4a2-6255-33f0227e3ec6",
+  "instructors": {
+    "content": [
+      "4b88c5a6-9334-7178-d1a9-85b8a6419cc4"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "e242e503-a406-f710-eab2-376d58dabf31",
+    "website": "21m-380-music-and-technology-sound-design-spring-2016"
+  },
+  "course_title": "Music and Technology: Sound Design",
+  "course_description": "In this course, we will rebuild the everyday sounds of nature, machines, and animals from scratch and encapsulate them in dynamic sound objects which can be embedded into computer games, animations, movies, virtual environments, sound installations, and theatre productions. You will learn how to analyze and model sounds and resynthesize them with the open-source graphical programming environment Pure Data (Pd). Our work will be guided by Andy Farnell's book _Designing Sound_ (MIT Press, 2010). No previous programming experience is required.",
+  "department_numbers": [
+    "21M"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21M.380",
+  "course_image_thumbnail": {
+    "content": "48211c2f-4fde-3db2-2c15-dfb289069fe0",
+    "website": "21m-380-music-and-technology-sound-design-spring-2016"
+  },
+  "learning_resource_types": [
+    "Exams with Solutions",
+    "Lecture Notes",
+    "Projects with Examples",
+    "Instructor Insights",
+    "Demonstration Audio"
+  ],
+  "site_uid": "0971a5ba-18a2-42e6-96ad-0f432a0510c0",
+  "site_short_id": "21m.380-spring-2016",
+  "site_url_path": "courses/21m-380-music-and-technology-sound-design-spring-2016",
+  "title": "Course Metadata"
+}
