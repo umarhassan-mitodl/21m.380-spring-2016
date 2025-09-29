@@ -16,7 +16,7 @@ Lectures: 2 sessions / week, 1.5 hours / session
 Description
 -----------
 
-In this course, you will learn how to build sounds and sound effects from scratch, using the open-source graphical programming environment {{% resource_link "c00c5332-c2c7-4594-8653-f32802785133" "Pure Data" %}} (Pd). You will learn how to analyze and synthesize everyday sounds and encapsulate them in dynamic sound objects that can be embedded into computer games, animations, movies, virtual environments, sound installations, and theater productions. Our work will be guided by Andy Farnell's book _Designing Sound_.
+In this course, you will learn how to build sounds and sound effects from scratch, using the open-source graphical programming environment [Pure Data](https://puredata.info/) (Pd). You will learn how to analyze and synthesize everyday sounds and encapsulate them in dynamic sound objects that can be embedded into computer games, animations, movies, virtual environments, sound installations, and theater productions. Our work will be guided by Andy Farnell's book _Designing Sound_.
 
 Learning Outcomes
 -----------------
@@ -53,7 +53,7 @@ Ensure you have access to this hardware and software by Session 4! By that date,
 Required Textbook
 -----------------
 
-{{% resource_link "c7f4f855-a0ed-4558-9a1d-8603a7897371" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Farnell, Andy. _Designing Sound_. MIT Press, 2010. ISBN: 9780262014410. (Book and accompanying Pd example files.)
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262014410) Farnell, Andy. _Designing Sound_. MIT Press, 2010. ISBN: 9780262014410. (Book and accompanying Pd example files.)
 
 I strongly recommend that you invest in a printed copy of this fantastic book, which you will most likely enjoy long after the end of this course.
 

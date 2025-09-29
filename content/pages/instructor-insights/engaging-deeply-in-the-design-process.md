@@ -43,4 +43,4 @@ A lot of the support I offer students during the design process occurs during of
 Reference
 ---------
 
-{{% resource_link "c7f4f855-a0ed-4558-9a1d-8603a7897371" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Farnell, Andy. _Designing Sound_. MIT Press, 2010. ISBN: 9780262014410. (Book and accompanying Pd example files.)
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262014410) Farnell, Andy. _Designing Sound_. MIT Press, 2010. ISBN: 9780262014410. (Book and accompanying Pd example files.)

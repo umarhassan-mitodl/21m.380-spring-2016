@@ -13,7 +13,7 @@ uid: b081e93a-ad70-36b9-ba45-f2818ea93148
 
 This page focuses on the course _21M.380 Music and Technology: Sound Design_ as it was taught by Dr. Florian Hollerweger in Spring 2016.
 
-In this course, students learned how to build sounds and sound effects from scratch, using the open-source graphical programming environment {{% resource_link "c00c5332-c2c7-4594-8653-f32802785133" "Pure Data" %}} (Pd). They also learned how to analyze and synthesize sounds and encapsulate them in dynamic sound objects that can be embedded into computer games animations, movies, virtual environments, sound installations, and theater productions. Their work was guided by Andy Farnell’s book _Designing Sound_.
+In this course, students learned how to build sounds and sound effects from scratch, using the open-source graphical programming environment [Pure Data](https://puredata.info/) (Pd). They also learned how to analyze and synthesize sounds and encapsulate them in dynamic sound objects that can be embedded into computer games animations, movies, virtual environments, sound installations, and theater productions. Their work was guided by Andy Farnell’s book _Designing Sound_.
 
 ## Course Outcomes
 
@@ -89,7 +89,7 @@ Mostly undergraduates
 
 ### Breakdown by Major
 
-Students tend to come from a variety of majors, with a significant number from {{% resource_link "62906872-ab3c-41a3-8b35-499b3394af14" "computer science and engineering" %}}.
+Students tend to come from a variety of majors, with a significant number from [computer science and engineering](https://www.eecs.mit.edu/).
 
 ### Typical Student Background
 

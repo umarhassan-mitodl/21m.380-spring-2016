@@ -27,13 +27,13 @@ Steam Train Whistle Example
 
 {{< resource 37a9f0d4-94bb-0d26-1a41-1aefec3022a9 >}}
 
-Class P6 (C3229), No. 480 locomotive - Engine attached to the Royal train for the Duke of York’s visit to Australia circa 1900. (Public domain image. Source: {{% resource_link "702f097c-3534-4a8f-8715-f2cb853f2ae3" "Flickr Commons" %}})
+Class P6 (C3229), No. 480 locomotive - Engine attached to the Royal train for the Duke of York’s visit to Australia circa 1900. (Public domain image. Source: [Flickr Commons](https://www.flickr.com/photos/state-records-nsw/2555504524/))
 
 The third sound design exercise in the course challenges students to synthesize a {{% resource_link cf15ea27-ab5d-b27b-a2b2-eefe4e862776 "steam train drive-by" "#EX3" %}}, with each group working on a different sound related to that problem. We start this process by dedicating an entire class session to the exemplary analysis of only the steam whistle sound that is part of this scene.  
 
 First, I ask students to form teams. These teams go online to identify the most cliché steam whistle sound they can possibly find. We then play the examples for each other and decide which one is the best. It’s often slightly chaotic, but we do narrow it down, and the winning whistle becomes the focus of our analysis.
 
-Instead of me lecturing, we look at a spectrogram of the sound together. This reveals, for example, a correlation between the temporal development of frequency and amplitude, respectively. This correlation is characteristic of the whistle's sound producing mechanism and can be used to simplify the problem. Then I bring students to the board who I feel might have an idea of how to approach the problem using {{% resource_link "c00c5332-c2c7-4594-8653-f32802785133" "_Pure Data_" %}}_._ I ask students to do _Pure Data_ patching on the blackboard without any computer because the pace is slower. This allows everyone to analyze the program that is being created in front of their eyes step-by-step. Teams observe this manual coding and then use the information to guide their later work on the larger steam train drive-by group assignment.
+Instead of me lecturing, we look at a spectrogram of the sound together. This reveals, for example, a correlation between the temporal development of frequency and amplitude, respectively. This correlation is characteristic of the whistle's sound producing mechanism and can be used to simplify the problem. Then I bring students to the board who I feel might have an idea of how to approach the problem using [_Pure Data_](https://puredata.info/)_._ I ask students to do _Pure Data_ patching on the blackboard without any computer because the pace is slower. This allows everyone to analyze the program that is being created in front of their eyes step-by-step. Teams observe this manual coding and then use the information to guide their later work on the larger steam train drive-by group assignment.
 
 Radio Play Scene Example
 ------------------------
@@ -44,7 +44,7 @@ First, we form teams. Then, in 15 minutes, I teach students what they need to kn
 
 There is some time in the week after the class session to record additional sounds as a group, but I encourage students to record as much as possible right away in class, so they quickly get a practical understanding of the sounds they'll need to work with.
 
-The {{% resource_link "08e870bc-1064-492a-8c59-a6c0d63f6c85" "MIT Lewis Music Library" %}} is an invaluable resource for students during this process. The librarians, who are incredibly accommodating, provide students with portable sound recorders and high-quality headphones.
+The [MIT Lewis Music Library](https://libraries.mit.edu/music/) is an invaluable resource for students during this process. The librarians, who are incredibly accommodating, provide students with portable sound recorders and high-quality headphones.
 
 This class session, perhaps because of its intensity and momentum, works well. Students are engaged and actively learning throughout the 80 minutes.
 
