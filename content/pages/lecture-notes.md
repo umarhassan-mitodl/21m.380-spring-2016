@@ -3,8 +3,6 @@ content_type: page
 description: This page presents the lecture slides and individual handouts for each
   lecture.
 draft: false
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -23,7 +21,7 @@ The complete set of lecture slides are given here compiled in a single file. Wit
 
 {{% resource_link "472dfb23-3e5c-a450-5a27-12328ca64d3a" "Audio examples (ZIP - 4.6MB)" %}}
 
-[Pd patches](https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/8375/designing_sound.zip/index.html) from Andy Farnell's *Designing Sound*
+{{% resource_link "afeca75e-c67c-4ab9-a3a9-cbf49affb75d" "Pd patches" %}} from Andy Farnell's *Designing Sound*
 
 While viewing the slides on your screen, clicking on any "play button" icon
 
