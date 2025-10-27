@@ -5,8 +5,6 @@ description: 'This resource contains information regarding music and technology:
 file: /courses/21m-380-music-and-technology-sound-design-spring-2016/9f471c1c3aa26e0f57a638120f27b1fe_MIT21M_380S16_assn_ex1.pdf
 file_size: 87960
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
