@@ -20,7 +20,7 @@ _In this section, Dr. Florian Hollerweger shares his insights about using the pr
 
 {{< quote "Your main tool for sound design is really your ears." "— Florian Hollerweger" >}}
 
-In _21M.380 Music and Technology: Sound Design_, we use Miller Puckette's programming language, [Pure Data (Pd)](https://puredata.info/), to synthesize sounds. Pure Data is a wonderful teaching tool because it runs on many different computer platforms, is freely available, and is open source (and will continue to be so). This last point is critical. When I’m designing teaching materials, I always consider whether or not the tools I teach students will be available in the foreseeable future.
+In _21M.380 Music and Technology: Sound Design_, we use Miller Puckette's programming language, {{% resource_link "68e8ed6b-906b-459d-ace2-0c4b1ffbe230" "Pure Data (Pd)" %}}, to synthesize sounds. Pure Data is a wonderful teaching tool because it runs on many different computer platforms, is freely available, and is open source (and will continue to be so). This last point is critical. When I’m designing teaching materials, I always consider whether or not the tools I teach students will be available in the foreseeable future.
 
 In class we focus on just the basic core of Pure Data, known as "Pd vanilla" (as opposed to “Pd-extended”, a version that includes additional libraries and extensions, and "Pd-L2Ork" which has recently superceded Pd-extended). This ensures that students understand the nuts and bolts of the sound design problems they are trying to solve, instead of relying on pre-fabricated solutions.
 
