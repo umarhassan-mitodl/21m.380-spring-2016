@@ -41,7 +41,6 @@
     "website": "21m-380-music-and-technology-sound-design-spring-2016"
   },
   "course_title": "Music and Technology: Sound Design",
-  "hide_download": true,
   "course_description": "In this course, we will rebuild the everyday sounds of nature, machines, and animals from scratch and encapsulate them in dynamic sound objects which can be embedded into computer games, animations, movies, virtual environments, sound installations, and theatre productions. You will learn how to analyze and model sounds and resynthesize them with the open-source graphical programming environment Pure Data (Pd). Our work will be guided by Andy Farnell's book _Designing Sound_ (MIT Press, 2010). No previous programming experience is required.",
   "department_numbers": [
     "21M"
@@ -52,7 +51,6 @@
     "content": "48211c2f-4fde-3db2-2c15-dfb289069fe0",
     "website": "21m-380-music-and-technology-sound-design-spring-2016"
   },
-  "hide_download_original": null,
   "learning_resource_types": [
     "Exams with Solutions",
     "Lecture Notes",
